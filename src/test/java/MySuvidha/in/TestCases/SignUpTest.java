@@ -28,8 +28,9 @@ public class SignUpTest extends TestBase{
 				// TODO Auto-generated catch block
 				e.printStackTrace();
 			}
+		  Assert.fail();
 		  		 
-		  TestBase.VerifyEquals("Actual", "Expected");	  
+		// TestBase.VerifyEquals("Actual", "Expected");	  
 	}
 
 	

@@ -32,8 +32,8 @@ public class LoginTest extends TestBase {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
-           // Assert.fail();
-		   TestBase.VerifyEquals("Actual", "Expected");
+		  // Assert.fail();
+              TestBase.VerifyEquals("Actual", "Expected");
 		  
 		   /*
 		    * 
