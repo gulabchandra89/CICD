@@ -35,6 +35,11 @@ public class LoginTest extends TestBase {
            // Assert.fail();
 		   TestBase.VerifyEquals("Actual", "Expected");
 		  
+		   /*
+		    * 
+		    * added comments to login test to check the CICD
+		    * 
+		    * */
 		  
 		  
 		// driver.findElement(By.xpath(orProperties.getProperty("loginbutton"))).click();
