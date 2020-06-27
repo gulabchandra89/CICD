@@ -1,17 +1,8 @@
 package MySuvidha.in.TestCases;
 
-import java.applet.Applet;
 import java.io.IOException;
-import java.util.concurrent.TimeUnit;
 
-import org.openqa.selenium.By;
-import org.testng.Assert;
-import org.testng.Reporter;
-import org.testng.SkipException;
-import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
-
-import com.thoughtworks.selenium.webdriven.commands.IsElementPresent;
 
 import MySuvidha.in.base.TestBase;
 import MySuvidha.in.utilities.TestUtil;
@@ -34,17 +25,7 @@ public class LoginTest extends TestBase {
 		}
 		  // Assert.fail();
               TestBase.VerifyEquals("Actual", "Expected");
-		  
-		   /*
-		    * 
-		    * added comments to login test to check the CICD
-		    * 
-		    * */
-		  
-		  
-		// driver.findElement(By.xpath(orProperties.getProperty("loginbutton"))).click();
-
-		// Assert.assertTrue(IsElementPresent(By.xpath(orProperties.getProperty("homebutton"))));
+		
 	}
 
 

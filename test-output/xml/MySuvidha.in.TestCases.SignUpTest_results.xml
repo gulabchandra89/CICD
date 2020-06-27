@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SignUpFB"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="12.734">
+  <properties />
+  
+  
+            <testcase name="signUpTest" time="5.687" classname="MySuvidha.in.TestCases.SignUpTest" />
+                <testcase name="signUpTest" time="3.711" classname="MySuvidha.in.TestCases.SignUpTest" />
+                <testcase name="signUpTest" time="3.336" classname="MySuvidha.in.TestCases.SignUpTest" />
+      
+</testsuite>
